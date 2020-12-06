@@ -6,13 +6,13 @@
 
 #### The project is about searching the twitter for job opportunities using popular [#hashtags](https://twitter.com/search?q=%23jobs&src=typd) and applying sentiment analysis on this.
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/jobtweets.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/jobtweets.svg?logo=git&style=social)](https://github.com/vinitshahdeo/) [![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/jobtweets.svg?logo=python&style=social)](https://github.com/vinitshahdeo/)
+[![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/jobtweets.svg?logo=github&style=social)](https://github.com/githork/jobtweets) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/jobtweets.svg?logo=git&style=social)](https://github.com/githork/jobtweets) [![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/jobtweets.svg?logo=python&style=social)](https://github.com/githork/jobtweets)
 
-#### Few popular [#hashtags](https://twitter.com/Vinit_Shahdeo)
+#### Few popular [#hashtags](https://github.com/githork/jobtweets)
 
-[![jobs](https://badgen.net/badge/%23/jobs?&scale=1.3)](https://vinitshahdeo.github.io/jobtweets/) [![Careers](https://badgen.net/badge/%23/careers?&scale=1.3)](https://vinitshahdeo.github.io/jobtweets/) [![JobOpening](https://badgen.net/badge/%23/JobOpening?&scale=1.3)](https://vinitshahdeo.github.io/jobtweets/) 
+[![jobs](https://badgen.net/badge/%23/jobs?&scale=1.3)](https://vinitshahdeo.github.io/jobtweets/) [![Careers](https://badgen.net/badge/%23/careers?&scale=1.3)](https://githork.github.io/jobtweets/) [![JobOpening](https://badgen.net/badge/%23/JobOpening?&scale=1.3)](https://githork.github.io/jobtweets/) 
 
-[![FreshHiring](https://badgen.net/badge/%23/FreshHiring?&scale=1.3)](https://vinitshahdeo.github.io/jobtweets/) [![Recruitments](https://badgen.net/badge/%23/Recruitments?&scale=1.3)](https://vinitshahdeo.github.io/jobtweets/) [![JobOpportunities](https://badgen.net/badge/%23/JobOpportunities?&scale=1.3)](https://vinitshahdeo.github.io/jobtweets/) 
+[![FreshHiring](https://badgen.net/badge/%23/FreshHiring?&scale=1.3)](https://githork.github.io/jobtweets/) [![Recruitments](https://badgen.net/badge/%23/Recruitments?&scale=1.3)](https://githork.github.io/jobtweets/) [![JobOpportunities](https://badgen.net/badge/%23/JobOpportunities?&scale=1.3)](https://githork.github.io/jobtweets/) 
 
 ### Motivation
 
@@ -32,7 +32,7 @@ Sentiment Analysis is the process of ‘computationally’ determining whether a
 2. Make a GET request to Twitter API to fetch tweets for a particular query.
 3. Parse the tweets. Classify each tweet as positive, negative or neutral.
 
-[![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/vinitshahdeo/jobtweets) [![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo) [![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/vinitshahdeo)
+[![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://githork.github.io/jobtweets/) [![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://githork.github.io/jobtweets/) [![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://githork.github.io/jobtweets/)
 #### Explanation
 
 - First of all, I've created a **TwitterClient** class. This class contains all the methods to interact with Twitter API and parsing tweets. We use `__init__` function to handle the authentication of API client.
@@ -97,10 +97,10 @@ tweets = api.get_tweets(query = 'Job Opportunities', count = 500)
 
 ### Project Reports
 
-[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/vinitshahdeo/jobtweets/raw/master/report/presentation.pptx) [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/vinitshahdeo/jobtweets/raw/master/report/REPORT.pdf)
+[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/githork/jobtweets/raw/master/report/presentation.pptx) [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/githork/jobtweets/raw/master/report/REPORT.pdf)
 
-- [Download](https://github.com/vinitshahdeo/jobtweets/raw/master/report/presentation.pptx) the presentation.
-- [Download](https://github.com/vinitshahdeo/jobtweets/raw/master/report/REPORT.pdf) project report.
+- [Download](https://github.com/githork/jobtweets/raw/master/report/presentation.pptx) the presentation.
+- [Download](https://github.com/githork/jobtweets/raw/master/report/REPORT.pdf) project report.
 
 ### Useful Links
 
@@ -109,9 +109,9 @@ tweets = api.get_tweets(query = 'Job Opportunities', count = 500)
  
 ### Related Work
 
-[![Sentiment Analysis](https://img.shields.io/static/v1.svg?label=Sentiment&message=Analysis&color=lightgray&logo=twitter&style=social&colorA=critical)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/) [![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=php&style=social)](https://github.com/vinitshahdeo/)
+[![Sentiment Analysis](https://img.shields.io/static/v1.svg?label=Sentiment&message=Analysis&color=lightgray&logo=twitter&style=social&colorA=critical)](https://github.com/githork/TwitterSentimentAnalysis) [![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=php&style=social)](https://github.com/githork/jobtweets)
 
-[Twitter Sentiment Analyzer](https://vinitshahdeo.github.io/TwitterSentimentAnalysis/) - A web app to search the keywords(Hashtags) on Twitter and analyze the sentiments of it. The source code is written in **PHP** and it performs Sentiment Analysis on Tweets by using the Datumbox API.
+[Twitter Sentiment Analyzer](https://githork.github.io/TwitterSentimentAnalysis/) - A web app to search the keywords(Hashtags) on Twitter and analyze the sentiments of it. The source code is written in **PHP** and it performs Sentiment Analysis on Tweets by using the Datumbox API.
 
 
 ### Contributing
@@ -125,9 +125,9 @@ tweets = api.get_tweets(query = 'Job Opportunities', count = 500)
 git clone https://github.com/vinitshahdeo/jobtweets.git
 ```
 
-- Check out any issue from [here](https://github.com/vinitshahdeo/jobtweets/issues).
+- Check out any issue from [here](https://github.com/githork/jobtweets/issues).
 
-- Make changes and send [Pull Request](https://github.com/vinitshahdeo/jobtweets/pull).
+- Make changes and send [Pull Request](https://github.com/githork/jobtweets/pull).
  
 ### Need help?
 
